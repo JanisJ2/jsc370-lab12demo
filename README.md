@@ -1,1 +1,5 @@
-# lab12-demo
+My
+JSC370
+Final
+Project
+Website
